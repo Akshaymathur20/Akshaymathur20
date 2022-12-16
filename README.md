@@ -13,21 +13,25 @@ Hi Everyone👋
 
 --> 💬 Ask me about Development, DSA, Java.
 
+--> Apart from technical I also work in social media management, image-editing , Canva.
+
 --> 📫 How to reach me: 
-                        E-Mail -> akshaymathur242@gmail.com
+       ->                 E-Mail -> akshaymathur242@gmail.com
                     
-                        Linkedin-> akshay-mathur-a77722209
+        ->                Linkedin-> akshay-mathur-a77722209
                     
-                         Twitter-> @AkshayM44490427
+          ->                Twitter-> @AkshayM44490427
                  
  
-    Looking forward to connect with you
+  ->  Looking forward to connect with you
                     
 --> I also describe me as a quick learner and a observer.
+--> Things I like to do   Cricket,Photography,History.
 
 --> "Do follow the process with honesty, the result will define your effort in those process."
 
 --> fact--> I searched for me alot during my hard times, recently I found  me better and it's just the beginning.
+         
          
 
 -->
