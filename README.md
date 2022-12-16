@@ -5,8 +5,6 @@ Hi Everyone👋
 --> My name is Akshay Mathur.
 --> I am a third year student at "Vellore Institute Of Technology,Bhopal" pursuing Btech in Computer Science.
 
--->🔭 I’m passionate about Develpment ,web3.
-
 --> 🌱 I’m currently learning ,focusing on Data Structure and Web Develpment.
 
 --> 🤔 I’m looking for an opportunity to work in the open source and real life projects.
@@ -16,9 +14,9 @@ Hi Everyone👋
 --> Apart from technical I also work in social media management, image-editing , Canva.
 
 --> 📫 How to reach me: 
-       ->                 E-Mail -> akshaymathur242@gmail.com
+       ->                 E-Mail -> akshaymathur242@gmail.com,
                     
-        ->                Linkedin-> akshay-mathur-a77722209
+        ->                Linkedin-> akshay-mathur-a77722209,
                     
           ->                Twitter-> @AkshayM44490427
                  
