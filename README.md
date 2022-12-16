@@ -14,11 +14,11 @@ Hi Everyone👋
 --> 💬 Ask me about Development, DSA, Java.
 
 --> 📫 How to reach me: 
-                    E-Mail -> akshaymathur242@gmail.com
+                        E-Mail -> akshaymathur242@gmail.com
                     
-                    Linkedin->akshay-mathur-a77722209
+                        Linkedin-> akshay-mathur-a77722209
                     
-                    Twitter->@AkshayM44490427
+                         Twitter-> @AkshayM44490427
                  
  
     Looking forward to connect with you
