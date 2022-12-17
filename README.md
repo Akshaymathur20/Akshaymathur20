@@ -14,7 +14,10 @@ Hi Everyone👋
 --> Apart from technical I also work in social media management, image-editing , Canva.
 
 --> 📫 How to reach me: 
-       ->                 E-Mail -> akshaymathur242@gmail.com,
+            E-Mail -> akshaymathur242@gmail.com
+            Linkedin-> akshay-mathur-a77722209,
+                    
+            Twitter-> @AkshayM44490427
                                      
  
   ->  Looking forward to connect with you
