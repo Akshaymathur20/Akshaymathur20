@@ -13,12 +13,12 @@ Hi Everyone👋
 
 --> Apart from technical I also work in social media management, image-editing , Canva.
 
---> 📫 How to reach me: 
-            E-Mail -> akshaymathur242@gmail.com
+--> 📫 How to reach me 
+  -->          E-Mail -> akshaymathur242@gmail.com
             
-            Linkedin-> www.linkedin.com/in/akshay-mathur-a77722209
+-->            Linkedin- www.linkedin.com/in/akshay-mathur-a77722209
                     
-            Twitter-> https://twitter.com/AkshayM44490427
+  -->          Twitter- https://twitter.com/AkshayM44490427
                                      
  
   ->  Looking forward to connect with you
@@ -32,4 +32,4 @@ Hi Everyone👋
          
          
 
--->
+--!>
