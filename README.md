@@ -24,7 +24,7 @@ Hi Everyone👋
   ->  Looking forward to connect with you
                     
 --> I also describe me as a quick learner and a observer.
---> Things I like to do   Cricket,Photography,History.
+--> Other than technical-> Cricket,Photography,History.
 
 --> "Do follow the process with honesty, the result will define your effort in those process."
 
