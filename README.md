@@ -34,7 +34,8 @@ Hi Everyone👋
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaymathur20&" alt="akshaymathur20" /></p>
-![Akshay  GitHub stats](https://github-readme-stats.vercel.app/api?username=akshaymathur20&hide=contribs,prs)
+<p>https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical</p>
+
          
          
 
