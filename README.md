@@ -24,7 +24,8 @@ Hi Everyone👋
   ->  Looking forward to connect with you
                     
 --> I also describe me as a quick learner and a observer.
---> Other than technical-> Cricket,Photography,History.
+
+--> Other than technical-> I follow Social media handling, Photo Editing , Cricket,Photography,History.
 
 --> "Do follow the process with honesty, the result will define your effort in those process."
 
@@ -33,6 +34,7 @@ Hi Everyone👋
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaymathur20&" alt="akshaymathur20" /></p>
+![Akshay  GitHub stats](https://github-readme-stats.vercel.app/api?username= akshaymathur20&hide=contribs,prs)
          
          
 
