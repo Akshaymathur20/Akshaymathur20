@@ -13,7 +13,8 @@ Hi Everyone👋
 
 --> Apart from technical I also work in social media management, image-editing , Canva.
 
---> 📫 How to reach me 
+--> 📫 Let's Connect 
+
   -->          E-Mail -> akshaymathur242@gmail.com
             
 -->            Linkedin- www.linkedin.com/in/akshay-mathur-a77722209
