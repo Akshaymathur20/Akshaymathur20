@@ -2,7 +2,8 @@ Hi Everyone👋
 
 <!--
 
---> My name is Akshay Mathur.
+--> My name is Akshay Mathur
+
 --> I am a third year student at "Vellore Institute Of Technology,Bhopal" pursuing Btech in Computer Science.
 
 --> 🌱 I’m currently learning ,focusing on Data Structure and Web Develpment.
