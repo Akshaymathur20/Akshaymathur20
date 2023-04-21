@@ -22,7 +22,6 @@ Hi Everyone👋
                     
   -->          Twitter- https://twitter.com/AkshayM44490427
                                      
- 
   ->  Looking forward to connect with you
                     
 --> I also describe me as a quick learner and a observer.
