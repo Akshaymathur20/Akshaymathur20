@@ -21,9 +21,7 @@ Hi Everyone👋
 -->            Linkedin- www.linkedin.com/in/akshay-mathur-a77722209
                     
   -->          Twitter- https://twitter.com/AkshayM44490427
-                                     
-  ->  Looking forward to connect with you
-                    
+                         
 --> I also describe me as a quick learner and a observer.
 
 --> Other than technical-> I follow Social media handling, Photo Editing , Cricket,Photography,History.
