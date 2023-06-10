@@ -7,6 +7,7 @@ Hi Everyone👋
 --> I am a third year student at "Vellore Institute Of Technology,Bhopal" pursuing Btech in Computer Science.
 
 --> 🌱 I’m currently learning ,focusing on Data Structure and Web Develpment.
+          "Diving into the world of ReactJS" 
 
 --> 🤔 I’m looking for an opportunity to work in the open source and real life projects.
 
