@@ -15,7 +15,8 @@ Hi Everyone👋
 
 --> Apart from technical I also work in social media management, image-editing , Canva.
 
---> 📫 Let's Connect 
+--> 📫 Connect with me through my social handles 
+
 
   -->          E-Mail -> akshaymathur242@gmail.com
             
