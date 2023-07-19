@@ -21,7 +21,7 @@
 
  @ My name is Akshay Mathur
 <p align="left"> 🔭 I am a pre-year student at "Vellore Institute Of Technology, Bhopal" pursuing Btech in Computer Science.<br><br><br><br>- 📚 I’m currently learning, focusing on Data Structure and Web development.
-          "Diving into the world of ReactJS"  ...<br><br>- ⚡ 🤔 I’m looking for an opportunity to work on open-source and real-life projects...<br><br>-💬 Ask me about Development, DSA, and Java..<br><br>-Apart from technical I also work in social media management, image editing, and Canva..<br><br> -- I also describe myself as a quick learner and an observer.<br><br>Other than technical-> I follow Social media handling, Photo Editing, Cricket, Photography, History.</p>
+          "Diving into the world of ReactJS"  ...<br><br>-  🤔 I’m looking for an opportunity to work on open-source and real-life projects...<br><br>-💬 Ask me about Development, DSA, and Java..<br><br>-Apart from technical I also work in social media management, image editing, and Canva..<br><br> -- I also describe myself as a quick learner and an observer.<br><br>Other than technical-> I follow Social media handling, Photo Editing, Cricket, Photography, History.</p>
 
 ###
 
@@ -31,13 +31,6 @@
 <a href="https://twitter.com/@akshaym44490427" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@akshaym44490427" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/akshay-mathur-a77722209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshay-mathur-a77722209" height="30" width="40" /></a>
 </p>
-
-
-
- 
---> "Do follow the process with honesty, the result will define your effort in those processes."
-
-
 <h3 align="left">🛠 Language and tools</h3>
 
 <p align="left"> 
@@ -59,7 +52,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaymathur20&" alt="akshaymathur20" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshaymathur20" alt="akshaymathur20" /></a> </p>
 
---> fact--> I searched for myself a lot during my hard times, recently I found me better and it's just the beginning.
+--> ⚡ fact--> I searched for myself a lot during my hard times, recently I found myself better and it's just the beginning.
 --!>
 
 ###
