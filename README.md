@@ -2,7 +2,7 @@
 <h1 align="center">Hey there 👋</h1>
  <h3 align="center">A passionate developer from India</h3>
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+<img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
 </div>
 <a href="https://linkedin.com/in/akshay-mathur-a77722209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshay-mathur-a77722209" height="30" width="40" /></a>
 <a href="https://twitter.com/@akshaym44490427" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@akshaym44490427" height="30" width="40" /></a>
@@ -31,6 +31,9 @@
 <a href="https://twitter.com/@akshaym44490427" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@akshaym44490427" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/akshay-mathur-a77722209" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshay-mathur-a77722209" height="30" width="40" /></a>
 </p>
+
+-->
+
 <h3 align="left">🛠 Language and tools</h3>
 
 <p align="left"> 
@@ -50,14 +53,9 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshaymathur20&show_icons=true&locale=en&layout=compact" alt="akshaymathur20" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaymathur20&" alt="akshaymathur20" /></p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshaymathur20" alt="akshaymathur20" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshaymathur20" alt="akshaymathur20" /></a> </p> -->
 
 --> ⚡ fact--> I searched for myself a lot during my hard times, recently I found myself better and it's just the beginning.
 --!>
 
 ###
-
-
-
-
-
