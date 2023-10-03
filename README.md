@@ -20,8 +20,8 @@
 ###
 
  @ My name is Akshay Mathur
-<p align="left"> 🔭 I am a pre-year student at "Vellore Institute Of Technology, Bhopal" pursuing Btech in Computer Science.<br><br><br><br>- 📚 I’m currently learning, focusing on Data Structure and Web development.
-          "Diving into the world of ReactJS"  ...<br><br>-  🤔 I’m looking for an opportunity to work on open-source and real-life projects...<br><br>-💬 Ask me about Development, DSA, and Java..<br><br>-Apart from technical I also work in social media management, image editing, and Canva..<br><br> -- I also describe myself as a quick learner and an observer.<br><br>Other than technical-> I follow Social media handling, Photo Editing, Cricket, Photography, History.</p>
+<p align="left"> 🔭 I am final year student at "Vellore Institute Of Technology, Bhopal" pursuing Btech in Computer Science.<br><br><br>- 📚 I’m currently learning, focusing on Data Structure and Web development.
+          "Diving into the world of ReactJS"  ...<br><br>-  🤔 I’m looking for an opportunity to work on open-source and real-life projects...<br><br>-💬 Ask me about Development, DSA, and Java..<br><br>Other than technical-> I follow Social media handling, Photo Editing, Cricket, Photography, History.</p>
 
 ###
 
