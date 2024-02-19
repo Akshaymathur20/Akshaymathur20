@@ -55,7 +55,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaymathur20&" alt="akshaymathur20" /></p>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshaymathur20" alt="akshaymathur20" /></a> </p> -->
 
---> ⚡ fact--> I searched for myself a lot during my hard times, recently I found myself better and it's just the beginning.
+--> ⚡ fact--> Life is unpredicatable
 --!>
 
 ###
