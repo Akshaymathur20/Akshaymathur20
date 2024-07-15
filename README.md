@@ -60,7 +60,7 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshaymathur20" alt="akshaymathur20" /></a> </p> -->
 
 
->LeetCode Profile--> https://leetcode.com/u/akshaymathur20/
+>Cpmmect with me throught mail -> akshaymathur242@gmail.com
 --> ⚡ fact--> Life is unpredicatable
 --!>
 
