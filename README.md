@@ -25,7 +25,6 @@
 
   - 🤔 I’m looking for opportunities in internships or full-time roles as a developer and am open to working on open-source and real-life projects.<br>
   - 💬 Feel free to ask me about Development, DSA, and Java.<br>
-  Other than technical, I follow social media handling, photo editing, cricket, photography, and history.
 </p>
 
 ###
@@ -94,24 +93,17 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a>
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaymathur20&label=Profile%20views&color=0e75b6&style=flat" alt="akshaymathur20" /> </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=akshaymathur20&label=Profile%20views&color=0e75b6&style=flat" alt="akshaymathur20" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshaymathur20&show_icons=true&locale=en&layout=compact" alt="akshaymathur20" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaymathur20&" alt="akshaymathur20" />
-</p>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akshaymathur20&show_icons=true&locale=en&layout=compact" alt="akshaymathur20" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akshaymathur20&" alt="akshaymathur20" /></p>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akshaymathur20" alt="akshaymathur20" /></a> </p> -->
 
 ---
 
 <p>Connect with me through email: <a href="mailto:akshaymathur242@gmail.com">akshaymathur242@gmail.com</a></p>
+
+<p> Other than technical, I follow social media handling, photo editing, cricket, photography, and history</p>
 
 ---
 
